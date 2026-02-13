@@ -5,9 +5,10 @@ userPoolClientId: '67cnntm9ctbsum8d6jvh8q9f17', // e.g. 25ddkmj4v6hfsfvruhpfi7n4
 region: 'ap-south-1' // e.g. us-east-2
 },
     api: {
-        invokeUrl: 'https://zsievbkdqg.execute-api.ap-south-1.amazonaws.com/sbi' // Replace with your API URL
+        invokeUrl: '' // Replace with your API URL
     }
 };
+
 
 
 
